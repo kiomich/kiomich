@@ -26,7 +26,7 @@
 `███░░░░░░░░░ 30%`
 
 **C++**  
-`█░░░░░░░░░░░ 1% (thinking of learning)`
+`█░░░░░░░░░░░░ 1% (thinking of learning)`
 
 ## 🎯 Goals
 - Become a pro in ethical hacking  
