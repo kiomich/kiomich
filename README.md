@@ -16,7 +16,7 @@
 ## OS
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Nobara](https://img.shields.io/badge/Nobara-4285F4?style=for-the-badge&logo=fedora&logoColor=white)
-![Orange Pi OS](https://img.shields.io/badge/Orange%20Pi%20OS-FF6B35?style=for-the-badge&logo=linux&logoColor=white)
+![ORANGE PI OS](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 
 ## 🧪 Programming languages
 
