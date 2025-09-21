@@ -49,6 +49,6 @@ href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyt
 
 <br clear="both">
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/d8beb0eb-6a51-4cf2-a097-64745b60a3e7)" />
+  <img src="https://github.com/user-attachments/assets/d8beb0eb-6a51-4cf2-a097-64745b60a3e7" />
 </div>
 ###
