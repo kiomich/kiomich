@@ -36,8 +36,7 @@ href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyt
 ![photo_5368314958422604107_y](https://github.com/user-attachments/assets/2bfa1bc0-9a1e-46cd-93a2-bbeab6fdfed4)
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" [https://www.twitch.tv/kiomizktrx] />
-  [<img src=https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" >](https://www.twitch.tv/kiomizktrx/)
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" >](https://www.twitch.tv/kiomizktrx)
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
 </div>
 
