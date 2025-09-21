@@ -3,9 +3,11 @@
 
 ###
 
-![kiomich's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiomich&theme=material-palenight&show_icons=true&hide_border=false&layout=compact) 
-![kiomich's Stats](https://github-readme-stats.vercel.app/api?username=kiomich&theme=material-palenight&show_icons=true&hide_border=false&count_private=false)
-![kiomich's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kiomich&theme=material-palenight&hide_border=false)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiomich&theme=material-palenight&show_icons=true&hide_border=false&layout=compact&card_width=320" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kiomich&theme=material-palenight&show_icons=true&hide_border=false&count_private=false&card_width=320" width="32%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiomich&theme=material-palenight&hide_border=false&card_width=320" width="32%" />
+</div>
 
 ###
 
