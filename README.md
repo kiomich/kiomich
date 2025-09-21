@@ -33,6 +33,7 @@ href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyt
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
 </div>
 
+![photo_5368314958422604107_y](https://github.com/user-attachments/assets/2bfa1bc0-9a1e-46cd-93a2-bbeab6fdfed4)
 
 <br clear="both">
 <div align="center">
