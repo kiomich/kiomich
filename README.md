@@ -37,5 +37,5 @@ href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyt
 
 <br clear="both">
 <div align="center">
-  <img src="https://github.com/kiomich/kiomich/blob/main/1231.png?raw=true&theme=material-palenight&show_icons=true&hide_border=false&count_private=false&card_width=500" width="90%" />
+  <img src="https://github.com/kiomich/kiomich/blob/main/1231.png?raw=true&theme=material-palenight&show_icons=true&hide_border=false&count_private=false&card_width=500" width="99%" />
 </div>
