@@ -48,7 +48,7 @@ href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyt
 ###
 
 <br clear="both">
-
-<img src="https://github.com/kiomich/kiomich/blob/main/1231.png?raw=true" alt="Snake animation" />
-
+<div align="center">
+  <img src="https://github.com/kiomich/kiomich/blob/main/1231.png?raw=truetheme=material-palenight&hide_border=false&card_width=500" width="100%"  />
+</div>
 ###
