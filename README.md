@@ -3,9 +3,7 @@
 
 ###
 
-![kiomich's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiomich&theme=material-palenight&show_icons=true&hide_border=false&layout=compact)
-
-![kiomich's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiomich&theme=material-palenight&show_icons=true&hide_border=false&layout=compact)
+![kiomich's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiomich&theme=material-palenight&show_icons=true&hide_border=false&layout=compact) ![kiomich's Stats](https://github-readme-stats.vercel.app/api?username=kiomich&theme=material-palenight&show_icons=true&hide_border=false&count_private=false)
 
 
 ###
