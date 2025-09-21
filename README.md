@@ -2,9 +2,11 @@
 <h2 align="left">Hey 👋! My name is kiomich and I'm a begginer pentester, from Ukraine</h2>
 
 ###
-![kiomich's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiomich&theme=material-palenight&show_icons=true&hide_border=false&layout=compact)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+![kiomich's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiomich&theme=material-palenight&show_icons=true&hide_border=false&layout=compact)
+</div>
+<div align="flex-end;">
+![kiomich's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiomich&theme=material-palenight&show_icons=true&hide_border=false&layout=compact)
 </div>
 
 ###
