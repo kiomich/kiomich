@@ -14,7 +14,7 @@
 </div>
 
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://github.com/kiomich/kiomich/blob/main/png/youve.jpg?raw=true"  />
 
 ###
 <h2>:rocket: Languages and Tools I Use</h2>
