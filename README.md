@@ -1,4 +1,4 @@
-![Header](https://github.com/kiomich/kiomich/blob/main/png/photo_5368314958422604106_y.jpg?raw=true) 
+![19105a121908b28a2588e889f9096f86](https://github.com/user-attachments/assets/df3af1a3-13bc-4e96-9e18-d6f5d0b1a030)![Header](https://github.com/kiomich/kiomich/blob/main/png/photo_5368314958422604106_y.jpg?raw=true) 
 <h2 align="left">Hey 👋! My name is kiomich and I'm a begginer pentester, from Ukraine</h2>
 
 ###
@@ -49,6 +49,6 @@ href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyt
 
 <br clear="both">
 <div align="center">
-  <img src="https://github.com/kiomich/kiomich/blob/main/1231.png?raw=truetheme=material-palenight&hide_border=false&card_width=500" width="100%"  />
+  <img src="https://github.com/user-attachments/assets/ef0d1f3e-dbd0-4946-8da2-c2b703c00492)&hide_border=false&card_width=500" width="100%"  />
 </div>
 ###
