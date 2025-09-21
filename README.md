@@ -4,11 +4,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiomich&theme=material-palenight&show_icons=true&hide_border=false&layout=compact&card_width=320" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kiomich&theme=material-palenight&show_icons=true&hide_border=false&count_private=false&card_width=320" width="32%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiomich&theme=material-palenight&hide_border=false&card_width=320" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiomich&theme=material-palenight&show_icons=true&hide_border=false&layout=compact&card_width=500" width="80%" />
 </div>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kiomich&theme=material-palenight&show_icons=true&hide_border=false&count_private=false&card_width=500" width="80%" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiomich&theme=material-palenight&hide_border=false&card_width=500" width="80%" />
+</div>
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
