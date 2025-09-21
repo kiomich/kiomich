@@ -2,12 +2,11 @@
 <h2 align="left">Hey 👋! My name is kiomich and I'm a begginer pentester, from Ukraine</h2>
 
 ###
-<div align="center">
+
 ![kiomich's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiomich&theme=material-palenight&show_icons=true&hide_border=false&layout=compact)
-</div>
-<div align="flex-end;">
+
 ![kiomich's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiomich&theme=material-palenight&show_icons=true&hide_border=false&layout=compact)
-</div>
+
 
 ###
 
