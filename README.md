@@ -1,5 +1,4 @@
 ![Header](https://github.com/kiomich/kiomich/blob/main/png/photo_5368314958422604106_y.jpg?raw=true) 
-<h2 align="left">Hey 👋! My name is kiomich and I'm a begginer pentester, from Ukraine</h2>
 
 ###
 
